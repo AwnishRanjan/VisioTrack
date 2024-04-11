@@ -1,0 +1,14 @@
+tensorflow
+Keras
+mtcnn
+mxnet
+opencv-python
+Pillow
+PyYAML
+requests
+scikit-image
+scikit-learn
+scipy
+imutils
+
+-e .
